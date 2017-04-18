@@ -5,7 +5,7 @@
  * Allows cloning of sections and entry types
  *
  *
- * @author    Kyle Marshall
+ * @author    Kyle 'Lurch' Marshall
  * @copyright Copyright (c) 2017 Kyle Marshall
  * @link      kylemarshall.me.uk
  * @package   Cloner
@@ -57,7 +57,7 @@ class ClonerPlugin extends BasePlugin
      */
     public function getReleaseFeedUrl()
     {
-        return 'https://raw.githubusercontent.com/kymar/cloner/master/releases.json';
+        return 'https://raw.githubusercontent.com/kymar/cloner/master/cloner/releases.json';
     }
 
     /**
