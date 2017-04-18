@@ -5,7 +5,7 @@
  * Allows cloning of sections and entry types
  *
  *
- * @author    Kyle 'Lurch' Marshall
+ * @author    Kyle Marshall
  * @copyright Copyright (c) 2017 Kyle Marshall
  * @link      kylemarshall.me.uk
  * @package   Cloner
